@@ -1,11 +1,11 @@
 # Coding Interview University
-
+<!-- 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > You probably won't have to study as much as I did. Anyway, everything you need is here.
 >
-> I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+> I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13) -->
 >
 > **Please Note:** You won't need to study as much as I did. I wasted a lot of time on things I didn't need to know. More info about that below. I'll help you get there without wasting your precious time.
 >
@@ -13,7 +13,7 @@
 > including the giants: Amazon, Facebook, Google, and Microsoft.
 >
 > *Best of luck to you!*
-
+<!-- 
 <details>
 <summary>Translations:</summary>
 
@@ -32,8 +32,8 @@
 - [Bulgarian](translations/README-bg.md)
 - [বাংলা - Bangla](translations/README-bn.md)
 
-</details>
-
+</details> -->
+<!-- 
 <details>
 <summary>Translations in progress:</summary>
 
@@ -51,11 +51,11 @@
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
 
-</details>
+</details> -->
 
 <div align="center">
 	<hr />
-    <p>
+    <!-- <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
     </p>
     <p>
@@ -73,8 +73,8 @@
     </p>
     <br />
     <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github"> -->
+            <!-- <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
             </div>
             <div>
@@ -84,7 +84,7 @@
             </div>
             <div>
                 <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
-            </div>
+            </div> -->
         </a>
     </p>
     <hr />
@@ -129,51 +129,59 @@ software development/engineering roles.
 
 ### Topics of Study
 
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
-    - [Arrays](#arrays)
-    - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
-    - [Queue](#queue)
-    - [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
-    - [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-    - balanced search trees (general concept, not details)
-    - traversals: preorder, inorder, postorder, BFS, DFS
-- [Sorting](#sorting)
-    - selection
-    - insertion
-    - heapsort
-    - quicksort
-    - merge sort
-- [Graphs](#graphs)
-    - directed
-    - undirected
-    - adjacency matrix
-    - adjacency list
-    - traversals: BFS, DFS
-- [Even More Knowledge](#even-more-knowledge)
-    - [Recursion](#recursion)
-    - [Dynamic Programming](#dynamic-programming)
-    - [Design Patterns](#design-patterns)
-    - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
-    - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
-    - [How computers process a program](#how-computers-process-a-program)
-    - [Caches](#caches)
-    - [Processes and Threads](#processes-and-threads)
-    - [Testing](#testing)
-    - [String searching & manipulations](#string-searching--manipulations)
-    - [Tries](#tries)
-    - [Floating Point Numbers](#floating-point-numbers)
-    - [Unicode](#unicode)
-    - [Endianness](#endianness)
-    - [Networking](#networking)
-- [Final Review](#final-review)
+- [Coding Interview University](#coding-interview-university)
+  - [What is it?](#what-is-it)
+  - [Table of Contents](#table-of-contents)
+    - [The Study Plan](#the-study-plan)
+    - [Topics of Study](#topics-of-study)
+    - [Getting the Job](#getting-the-job)
+    - [Optional Extra Topics & Resources](#optional-extra-topics--resources)
+  - [Why use it?](#why-use-it)
+  - [How to use it](#how-to-use-it)
+  - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+  - [A Note About Video Resources](#a-note-about-video-resources)
+  - [Choose a Programming Language](#choose-a-programming-language)
+    - [For this Study Plan](#for-this-study-plan)
+    - [For your Coding Interview](#for-your-coding-interview)
+  - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+    - [C](#c)
+    - [Python](#python)
+    - [Java](#java)
+    - [C++](#c-1)
+  - [Interview Prep Books](#interview-prep-books)
+    - [If you have tons of extra time:](#if-you-have-tons-of-extra-time)
+  - [Don't Make My Mistakes](#dont-make-my-mistakes)
+    - [1. You Won't Remember it All](#1-you-wont-remember-it-all)
+    - [2. Use Flashcards](#2-use-flashcards)
+    - [3. Do Coding Interview Questions While You're Learning](#3-do-coding-interview-questions-while-youre-learning)
+    - [4. Focus](#4-focus)
+  - [What you won't see covered](#what-you-wont-see-covered)
+  - [The Daily Plan](#the-daily-plan)
+  - [Coding Question Practice](#coding-question-practice)
+  - [Coding Problems](#coding-problems)
+  - [Let's Get Started](#lets-get-started)
+  - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+  - [Data Structures](#data-structures)
+  - [More Knowledge](#more-knowledge)
+  - [Trees](#trees)
+  - [Sorting](#sorting)
+  - [Graphs](#graphs)
+  - [Even More Knowledge](#even-more-knowledge)
+  - [Final Review](#final-review)
+  - [Update Your Resume](#update-your-resume)
+  - [Find a Job](#find-a-job)
+  - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+  - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+  - [Have questions for the interviewer](#have-questions-for-the-interviewer)
+  - [Once You've Got The Job](#once-youve-got-the-job)
+  - [Additional Books](#additional-books)
+  - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
+  - [Additional Learning](#additional-learning)
+  - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+  - [Video Series](#video-series)
+  - [Computer Science Courses](#computer-science-courses)
+  - [Algorithms implementation](#algorithms-implementation)
+  - [Papers](#papers)
 
 ### Getting the Job
 
@@ -188,50 +196,59 @@ software development/engineering roles.
 
 ### Optional Extra Topics & Resources
 
-- [Additional Books](#additional-books)
-- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
-- [Additional Learning](#additional-learning)
-    - [Compilers](#compilers)
-    - [Emacs and vi(m)](#emacs-and-vim)
-    - [Unix command line tools](#unix-command-line-tools)
-    - [Information theory](#information-theory-videos)
-    - [Parity & Hamming Code](#parity--hamming-code-videos)
-    - [Entropy](#entropy)
-    - [Cryptography](#cryptography)
-    - [Compression](#compression)
-    - [Computer Security](#computer-security)
-    - [Garbage collection](#garbage-collection)
-    - [Parallel Programming](#parallel-programming)
-    - [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
-    - [A*](#a)
-    - [Fast Fourier Transform](#fast-fourier-transform)
-    - [Bloom Filter](#bloom-filter)
-    - [HyperLogLog](#hyperloglog)
-    - [Locality-Sensitive Hashing](#locality-sensitive-hashing)
-    - [van Emde Boas Trees](#van-emde-boas-trees)
-    - [Augmented Data Structures](#augmented-data-structures)
-    - [Balanced search trees](#balanced-search-trees)
-        - AVL trees
-        - Splay trees
-        - Red/black trees
-        - 2-3 search trees
-        - 2-3-4 Trees (aka 2-4 trees)
-        - N-ary (K-ary, M-ary) trees
-        - B-Trees
-    - [k-D Trees](#k-d-trees)
-    - [Skip lists](#skip-lists)
-    - [Network Flows](#network-flows)
-    - [Disjoint Sets & Union Find](#disjoint-sets--union-find)
-    - [Math for Fast Processing](#math-for-fast-processing)
-    - [Treap](#treap)
-    - [Linear Programming](#linear-programming-videos)
-    - [Geometry, Convex hull](#geometry-convex-hull-videos)
-    - [Discrete math](#discrete-math)
-    - [Machine Learning](#machine-learning)
-- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
-- [Video Series](#video-series)
-- [Computer Science Courses](#computer-science-courses)
-- [Papers](#papers)
+- [Coding Interview University](#coding-interview-university)
+  - [What is it?](#what-is-it)
+  - [Table of Contents](#table-of-contents)
+    - [The Study Plan](#the-study-plan)
+    - [Topics of Study](#topics-of-study)
+    - [Getting the Job](#getting-the-job)
+    - [Optional Extra Topics & Resources](#optional-extra-topics--resources)
+  - [Why use it?](#why-use-it)
+  - [How to use it](#how-to-use-it)
+  - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+  - [A Note About Video Resources](#a-note-about-video-resources)
+  - [Choose a Programming Language](#choose-a-programming-language)
+    - [For this Study Plan](#for-this-study-plan)
+    - [For your Coding Interview](#for-your-coding-interview)
+  - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+    - [C](#c)
+    - [Python](#python)
+    - [Java](#java)
+    - [C++](#c-1)
+  - [Interview Prep Books](#interview-prep-books)
+    - [If you have tons of extra time:](#if-you-have-tons-of-extra-time)
+  - [Don't Make My Mistakes](#dont-make-my-mistakes)
+    - [1. You Won't Remember it All](#1-you-wont-remember-it-all)
+    - [2. Use Flashcards](#2-use-flashcards)
+    - [3. Do Coding Interview Questions While You're Learning](#3-do-coding-interview-questions-while-youre-learning)
+    - [4. Focus](#4-focus)
+  - [What you won't see covered](#what-you-wont-see-covered)
+  - [The Daily Plan](#the-daily-plan)
+  - [Coding Question Practice](#coding-question-practice)
+  - [Coding Problems](#coding-problems)
+  - [Let's Get Started](#lets-get-started)
+  - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+  - [Data Structures](#data-structures)
+  - [More Knowledge](#more-knowledge)
+  - [Trees](#trees)
+  - [Sorting](#sorting)
+  - [Graphs](#graphs)
+  - [Even More Knowledge](#even-more-knowledge)
+  - [Final Review](#final-review)
+  - [Update Your Resume](#update-your-resume)
+  - [Find a Job](#find-a-job)
+  - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+  - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+  - [Have questions for the interviewer](#have-questions-for-the-interviewer)
+  - [Once You've Got The Job](#once-youve-got-the-job)
+  - [Additional Books](#additional-books)
+  - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
+  - [Additional Learning](#additional-learning)
+  - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+  - [Video Series](#video-series)
+  - [Computer Science Courses](#computer-science-courses)
+  - [Algorithms implementation](#algorithms-implementation)
+  - [Papers](#papers)
 
 ---
 
