@@ -1,5 +1,14 @@
 # Coding Interview University
-## took resources from all over the world , please continue with caution , follow me too 🤗
+## took resources from all over the world , please continue with caution , follow me this project and please do contribute , join us at brain juice lol .  🤗
+
+
+# How would you  use it? 
+>this is just a central reporsitory of everything you need to suceed in life , including the college notes that is something youlll find in the  [college notes](./college_notes/)
+
+
+
+
+
 >
 > **Please Note:** You won't need to study as much as I did. I wasted a lot of time on things I didn't need to know. More info about that below. I'll help you get there without wasting your precious time.
 >
