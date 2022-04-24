@@ -1,4 +1,4 @@
-# Coding Interview University
+# Coding Society for Open thinkers 
 ## took resources from all over the world , please continue with caution , follow me this project and please do contribute , join us at brain juice lol .  🤗
 
 
@@ -1929,3 +1929,4 @@ Sit back and enjoy.
 - [2015: How Developers Search for Code: A Case Study](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
 - More papers: [1,000 papers](https://github.com/0voice/computer_expert_paper)
 
+### made with love by a fellow student { aryan kathawale} 
