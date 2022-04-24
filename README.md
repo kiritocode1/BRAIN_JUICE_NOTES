@@ -3,7 +3,7 @@
 
 
 # How would you  use it? 
->this is just a central reporsitory of everything you need to suceed in life , including the college notes that is something youlll find in the  [college notes](./college_notes/)
+## this is just a central reporsitory of everything you need to suceed in life , including the college notes that is something youlll find in the  [college notes](./college_notes/)
 
 
 
@@ -1929,4 +1929,4 @@ Sit back and enjoy.
 - [2015: How Developers Search for Code: A Case Study](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
 - More papers: [1,000 papers](https://github.com/0voice/computer_expert_paper)
 
-### made with love by a fellow student { aryan kathawale} 
+### made with ❤️❤️ by a fellow student for other fellow students 
