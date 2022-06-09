@@ -200,7 +200,7 @@ x – A</code></h3>
 - ``` the greater the cv the greater the variability  ```.
 ---
 ---
-<h1 style="color: coral;">MOMENT , SKEWNESS AND KURTOSIS.</h1>
+<h1 style="color: coral; font-family: cursive;">MOMENT , SKEWNESS AND KURTOSIS.</h1>
 
 - So far we have studied tow aspects of frequency distribution viz. average and dispersion. In order to study few more 
 aspects such as symmetry, shape of the frequency distribution (or frequency curve), more general type of descriptive 
@@ -256,7 +256,7 @@ the curve which we draw with the given data.
         - if **COS < 0**: negatively skewed.   l 
         - if **COS>0**: positively skewed .
 
-<h1 style="color:limegreen ; font-family:'Courier New', Courier, monospace;">Kurtosis</h1>
+<h1 style="color:limegreen ; font-family:'Courier New', Courier, monospace; ">Kurtosis</h1>
 
 - this measures the flatness or the peakness of the bell curve . 
 - which is helpful for maybe approximation of the curve and  checking the average value and variances . 
@@ -266,23 +266,13 @@ the curve which we draw with the given data.
 - which gives us the graphs : 
 - ![](./kurtosis_02.png)
 
+---
+---
+<h1 style="color:pink; font-family:consolas,monaco,monospace;  "> coefficient of corelation</h1>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-  ![cov](./C.O.V.png)
+-  
