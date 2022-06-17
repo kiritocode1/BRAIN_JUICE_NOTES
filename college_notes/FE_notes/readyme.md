@@ -1,6 +1,6 @@
 # This is the Central Repo of all the first  year notes . 
 --- 
-## this is just something devloped by and maintained by   awesome devs at sppu  with ❤️ 
+## this is just something devloped by and maintained by   awesome ```devs at sppu  ``` with ❤️ 
 
 ## rules with this repo is to make a pull req if you think you have something to add to the  repo and the seniors will add them soon enough . 
 
